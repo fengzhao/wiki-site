@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wiki.fengzhao.pro
+url: https://wiki.fengzhao.me
 root: /
 permalink: wiki/:title/
 permalink_defaults:
@@ -113,9 +113,9 @@ sitemap:
 nofollow:
   enable: true
   exclude:
-    - fengzhao.pro
-    - blog.fengzhao.pro
-    - wiki.fengzhao.pro
+    - fengzhao.me
+    - blog.fengzhao.me
+    - wiki.fengzhao.me
 
 ## Themes: https://hexo.io/themes/
 theme: Wikitten
