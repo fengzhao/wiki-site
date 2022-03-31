@@ -20,7 +20,7 @@
     "gulp-htmlmin": "^3.0.0",
     "gulp-imagemin": "^3.4.0",
     "gulp-uglify": "^3.0.0",
-    "hexo": "^3.6.0",
+    "hexo": "^6.0.0",
     "hexo-autonofollow": "^1.0.1",
     "hexo-deployer-git": "^0.3.1",
     "hexo-directory-category": "^1.0.5",
